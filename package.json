@@ -1,0 +1,22 @@
+{
+  "name": "pythonautomate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmat045/pythonAutomate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmat045/pythonAutomate/issues"
+  },
+  "homepage": "https://github.com/dmat045/pythonAutomate#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.17"
+  }
+}
